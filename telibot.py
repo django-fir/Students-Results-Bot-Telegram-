@@ -5,7 +5,7 @@ from telegram import InputMediaPhoto
 import requests
 
 
-TOKEN = "5946551187:AAHznvr0W3Zfe9BHQCks6Vb6xE7wA1Htwxg"
+TOKEN = "*****************************************"
 usn = ''
 caht_id = ''
 logging.basicConfig(
